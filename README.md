@@ -1,4 +1,4 @@
-# papers
+# Paper Reviews
 
 | Paper | Presenter |
 |---|---|
